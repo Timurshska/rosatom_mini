@@ -1,0 +1,8 @@
+/.venv
+/data
+/products
+/prompt_experiments/prompt_datas
+/prompt_experiments/file.txt
+/prompt_experiments/output.xlsx
+/output.xlsx
+/PARAMS.py
